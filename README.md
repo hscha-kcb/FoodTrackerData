@@ -10,6 +10,10 @@
 - 공식 웹 보완의 sourceDate/checkedDate는 확인일, generatedDate는 원문 기준일(미공개 가능), manifest.published는 배포일입니다. 컵 용량과 중량은 환산하지 않습니다.
 - 각 항목의 source, version, sourceDate, url에 출처를 보존합니다. 칼로리는 기록을 돕는 추정값이며 현재 판매 메뉴와 다를 수 있습니다.
 
+- 미국 농무부 USDA FoodData Central SR Legacy 2018-04: https://fdc.nal.usda.gov/download-datasets/
+- 일본 문부과학성 일본식품표준성분표 8정 증보2023(정오표 2026-03-27): https://www.mext.go.jp/a_menu/syokuhinseibun/mext_00001.html
+- 해외 참고 조리식은 100g 가식부 기준입니다. 국내 모든 조리법이나 1개·1마리 크기를 대표하지 않으며, 조건은 각 portionNote를 참고하세요.
+
 ## 브랜드 보완 범위
 
 카페: 스타벅스, 투썸플레이스, 이디야, 메가커피, 컴포즈커피, 빽다방, 공차, 할리스.
