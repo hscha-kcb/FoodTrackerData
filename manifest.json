@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "revision": 11,
-  "published": "2026-11-10",
-  "file": "catalog-be4b4aad7b63e509bb7b879027ee2e987e28bba944ac961613081d17b0da7d9d.json",
-  "sha256": "be4b4aad7b63e509bb7b879027ee2e987e28bba944ac961613081d17b0da7d9d",
-  "bytes": 6147288,
-  "records": 6274
+  "revision": 12,
+  "published": "2026-11-11",
+  "file": "catalog-22202a47204ebf0a8e5a6ef6af6583fad8b92464cf7079dceb174b530499a606.json",
+  "sha256": "22202a47204ebf0a8e5a6ef6af6583fad8b92464cf7079dceb174b530499a606",
+  "bytes": 6259761,
+  "records": 6337
 }
