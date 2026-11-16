@@ -35,3 +35,9 @@ manifest.json은 배포 번호·배포일·SHA-256·크기·개수를 포함합�
 ## 레시피 예시 구분
 
 nutritionBasis가 recipe_estimate인 항목은 식사일기가 정한 조리 완료 재료 배합 예시입니다. 공식 완성 음식 분석값이 아닙니다. 농진청 DB 10.4의 해당 상태 재료 성분값을 사용하며 recipeIngredients에 재료별 g과 kcal/100g을 공개합니다. 추가 가열·물 추가·버림 없이 혼합하는 계산 예시이고, portion은 배합 합계로 실제 조리 실측값이나 표준 1인분이 아닙니다. 원재료를 조리 후 음식으로 수율 추정하지 않습니다.
+
+## 시판 과자·음료
+
+롯데웰푸드·오리온·해태·크라운·농심과 주요 음료사의 검토된 제품·용량을 포함합니다. 식약처 공개 자료의 원문 생성일을 보존하므로 현재 판매 목록 전체를 뜻하지 않습니다. 포장은 표시된 전체 g/mL이며 개별 과자 1개와 다를 수 있습니다.
+
+빈츠 기본 제품은 롯데웰푸드 공식몰의 현재 포장 영양정보를 우선하며 과거 수집값을 previousProvenance에 보존했습니다. 출처: https://m.lottesweetmall.com/product/detail.html?product_no=1055 / https://m.lottesweetmall.com/product/detail.html?product_no=125
